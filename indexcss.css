@@ -1,0 +1,82 @@
+.fbpage
+{position: absolute;
+left: 61.5%;
+z-index: 1
+;
+
+
+
+}
+
+
+.Banner
+{
+
+width: 40%;
+left:50% ;
+height:auto;
+top: 0%;
+position: absolute;
+}
+
+.bg
+{   width: 100%;
+    height: auto;
+    left: 10%;
+    
+    position: absolute;
+    background-size: initial;  
+}
+
+.btn--block
+{
+    position: absolute;
+    display: inline-block;
+    width: 80%;
+    background-color: rgba(254, 215, 233, 0.8);
+  
+}
+.btn--outline:hover
+{
+    background-color: #fed7e9;
+}
+
+
+#CONTACT_US
+{
+    margin-left: 30%;
+    margin-top: 90%;
+}
+#ABOUT_US
+{
+    margin-left: 30%;
+    margin-top: 100%;
+}
+
+
+
+.Logo
+{
+width: 50%;
+height: 100%;
+
+position: relative;
+text-align: center;
+}
+
+body
+{
+background-color: #fed7e9;
+}
+
+#LOGO
+{   margin-top: 10%;
+    width: 70%;
+    height: 80%;
+
+}
+#BG
+{width: 120%;
+    height: auto;
+
+}
